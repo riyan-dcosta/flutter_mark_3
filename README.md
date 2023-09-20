@@ -1,2 +1,11 @@
-# flutter_mark_3
-micro app to be used inside mark_2
+# Flutter Mark 3
+Desc...
+
+## Architecture
+ - Usage of Clean Architecture
+
+### Contents
+ - #### Mono Repo
+   - Home Page
+ - #### Micro Apps
+   - Local Assets Image View
