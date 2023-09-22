@@ -11,11 +11,9 @@ dependencies:
     sdk: flutter
 
   cupertino_icons: ^1.0.2
-
   flutter_micro_app: ^0.12.1
-  
-  micro_common_app:
-    path: micro_common_app
+  native_mark_3:
+    path: native_mark_3
 
 dev_dependencies:
   flutter_test:
