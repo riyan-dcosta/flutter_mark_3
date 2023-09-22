@@ -11,6 +11,9 @@ dependencies:
     sdk: flutter
 
   cupertino_icons: ^1.0.2
+
+  flutter_micro_app: ^0.12.1
+  
   micro_common_app:
     path: micro_common_app
 
