@@ -1,10 +1,12 @@
 import 'package:flutter/material.dart';
+import 'package:flutter_mark_3/constants/asset_path.dart';
 
 class ShowAssetImage extends StatelessWidget {
   const ShowAssetImage({super.key});
 
   @override
   Widget build(BuildContext context) {
-    return Image.asset("assets/images/halloween2015.jpg");
+    print("ShowAssetImage CheckIfHost ${CheckIfHost().isHost}");
+    return Image.asset(AssetPath.assetPath);
   }
 }
